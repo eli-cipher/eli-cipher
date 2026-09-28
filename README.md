@@ -16,4 +16,4 @@
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/mohitvaishnav05) · [X](https://x.com/elicipher_) · [YouTube](https://www.youtube.com/@elicipher05) · [TryHackMe](https://tryhackme.com/p/elicipher05)
+[LinkedIn](https://www.linkedin.com/in/elicipher) · [X](https://x.com/elicipher_) · [YouTube](https://www.youtube.com/@eli-cipher) · [TryHackMe](https://tryhackme.com/p/elicipher)
