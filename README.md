@@ -2,7 +2,7 @@
 
 ## Space & security
 
-19, India. Working toward space-industry security — satellite and RF/SATCOM link security, AI spacecraft autonomy security — funded along the way by web security and bug bounty work.
+19, India. Working toward space-industry security — satellite and RF/SATCOM link security, AI spacecraft autonomy security — working along the way on web security and bug bounty work for earning. 
 
 **Hub & current work → [eli-cipher.github.io](https://eli-cipher.github.io)**
 
