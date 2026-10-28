@@ -10,7 +10,7 @@
 
 ### Focus
 
-- **Satellite / RF / SATCOM security** — how uplinks, downlinks, and transponders get attacked, and how they're defended
+- **Satellite / SATCOM security** — how uplinks, downlinks, and transponders get attacked, and how they're defended
 - **AI spacecraft autonomy security** — attack surfaces introduced when spacecraft make their own decisions
 - **Web security & bug bounty** — broken access control, fuzzing, vulnerability research
 
