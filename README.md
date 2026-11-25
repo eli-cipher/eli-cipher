@@ -10,7 +10,7 @@ Self-taught security researcher from India. Web security → space & aviation sy
 - **[soc-lab-docker](https://github.com/eli-cipher/soc-lab-docker)**: Kali/Hydra brute force → Nginx + Suricata (custom rule) → Splunk, in Docker
 - **[aerospace-security-notes](https://github.com/eli-cipher/aerospace-security-notes)**: notes on satellite and space-system security
 
-## Current focus (Nov 2026 to Feb 2027)
+## Current focus 
 
 C, reverse engineering and packet analysis, then a flight-software lab and an open dataset of disclosed space and aviation software vulnerabilities.
 
