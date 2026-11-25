@@ -1,19 +1,19 @@
 # Eli Cipher — Mohit Vaishnav
 
-## Space & security
+Self-taught security researcher from India. Web security → space & aviation systems.
 
-19, India. Working toward space-industry security — satellite and RF/SATCOM link security, AI spacecraft autonomy security — working along the way on web security and bug bounty for earning. 
+## What's public today
 
-**Hub & current work → [eli-cipher.github.io](https://eli-cipher.github.io)**
+- **[web-security-notes](https://github.com/eli-cipher/web-security-notes)**: PortSwigger Web Security Academy writeups, organized by vulnerability category
+- **[HTTP-Request-Fuzzer-Tool](https://github.com/eli-cipher/HTTP-Request-Fuzzer-Tool)**: Python fuzzer for XSS, SQLi and directory traversal
+- **[Email-Header-Analyzer](https://github.com/eli-cipher/Email-Header-Analyzer)**: Python phishing and spam header analysis with a simple risk score
+- **[soc-lab-docker](https://github.com/eli-cipher/soc-lab-docker)**: Kali/Hydra brute force → Nginx + Suricata (custom rule) → Splunk, in Docker
+- **[aerospace-security-notes](https://github.com/eli-cipher/aerospace-security-notes)**: notes on satellite and space-system security
 
----
+## Current focus (Nov 2026 to Feb 2027)
 
-### Focus
+C, reverse engineering and packet analysis, then a flight-software lab and an open dataset of disclosed space and aviation software vulnerabilities.
 
-- **Satellite / SATCOM security** — how uplinks, downlinks, and transponders get attacked, and how they're defended
-- **AI spacecraft autonomy security** — attack surfaces introduced when spacecraft make their own decisions
-- **Web security & bug bounty** — broken access control, fuzzing, vulnerability research
+## Elsewhere
 
-### Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/elicipher) · [X](https://x.com/elicipher_) · [YouTube](https://www.youtube.com/@eli-cipher) · [TryHackMe](https://tryhackme.com/p/elicipher)
+[Portfolio](https://eli-cipher.github.io) · [LinkedIn](https://linkedin.com/in/elicipher) · [X](https://x.com/elicipher_) · [YouTube](https://youtube.com/@eli-cipher) · [TryHackMe](https://tryhackme.com/p/elicipher)
